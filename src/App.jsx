@@ -25,7 +25,7 @@ function App() {
 
       <header className="hero-section">
         <div className="hero-content">
-          <h1>Welcome to Learning Hub</h1>
+          <h1>Welcome to React Learning Hub</h1>
           <p>Build modern, responsive, and interactive websites using React!</p>
           <button className="cta-btn">Get Started</button>
         </div>
